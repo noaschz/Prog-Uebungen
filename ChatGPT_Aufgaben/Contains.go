@@ -4,6 +4,10 @@ package chatgptaufgaben
 // Randfälle:
 //   - nil oder leere Liste: false
 func Contains(nums []int, x int) bool {
-	// TODO
+	for _, v := range nums {
+		if v == x {
+			return true
+		}
+	}
 	return false
 }
