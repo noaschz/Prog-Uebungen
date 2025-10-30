@@ -4,6 +4,6 @@ package chatgptaufgaben
 // Randfälle:
 //   - nil oder leere Liste: -1
 func IndexOf(nums []int, x int) int {
-	return 0
+	// TODO
+	return -1
 }
-
