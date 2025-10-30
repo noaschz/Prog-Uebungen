@@ -1,8 +1,8 @@
 package chatgptaufgaben
 
-// Erwartet eine Liste von Zahlen und gibt das Maximum zurück.
-// Wenn die Liste leer ist, wird 0 zurückgegeben.
+// MaxList gibt das Maximum der ganzzahligen Liste nums zurück.
+// nil oder leere Liste -> 0
 func MaxList(nums []int) int {
-
+	//TODO
 	return 0
 }

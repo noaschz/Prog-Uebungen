@@ -1,4 +1,3 @@
-// maxlist_example_test.go
 package chatgptaufgaben
 
 import "fmt"
