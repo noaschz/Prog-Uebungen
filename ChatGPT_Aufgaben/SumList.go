@@ -5,6 +5,9 @@ package chatgptaufgaben
 //   - nil oder leere Liste: 0
 //   - int-Überläufe werden nicht speziell behandelt
 func SumList(nums []int) int {
-	// TODO
-	return 0
+	sum := 0
+	for _, v := range nums {
+		sum += v
+	}
+	return sum
 }
